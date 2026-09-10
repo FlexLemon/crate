@@ -6,14 +6,14 @@ export const OG_IMAGE = `${SITE_URL}logo.png`
 
 export const copy = {
   es: {
-    title: 'Crate | Organizador de música para DJs y productores',
+    title: 'Crate DJ | Organizador de música para DJs y productores',
     description:
-      'Crate es el centro de mando de tu biblioteca musical. Organiza pistas por artista, analiza BPM y formato, convierte MP3 WAV FLAC y monta sets. App para DJs y productores en Windows.',
+      'Crate DJ es el centro de mando de tu biblioteca musical. Organiza pistas por artista, analiza BPM y formato, convierte MP3 WAV FLAC y monta sets. App para DJs y productores en Windows.',
     ogLocale: 'es_ES',
     langEs: 'Español',
     langEn: 'English',
-    kicker: 'Para DJs y productores',
-    brand: 'Crate',
+    kicker: 'Crate DJ',
+    brand: 'Crate DJ',
     tagline: 'El centro de mando de tu biblioteca musical.',
     download: 'Descargar Crate',
     pillars: ['Organizar', 'Analizar', 'Convertir', 'Montar sets'],
@@ -59,14 +59,14 @@ export const copy = {
     ],
   },
   en: {
-    title: 'Crate | Music library organizer for DJs and producers',
+    title: 'Crate DJ | Music library organizer for DJs and producers',
     description:
-      'Crate is the command center for your music library. Organize tracks by artist, analyze BPM and format, convert MP3 WAV FLAC, and build sets. Windows app for DJs and producers.',
+      'Crate DJ is the command center for your music library. Organize tracks by artist, analyze BPM and format, convert MP3 WAV FLAC, and build sets. Windows app for DJs and producers.',
     ogLocale: 'en_US',
     langEs: 'Español',
     langEn: 'English',
-    kicker: 'For DJs and producers',
-    brand: 'Crate',
+    kicker: 'Crate DJ',
+    brand: 'Crate DJ',
     tagline: 'The command center for your music library.',
     download: 'Download Crate',
     pillars: ['Organize', 'Analyze', 'Convert', 'Build Sets'],
