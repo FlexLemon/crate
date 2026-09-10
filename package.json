@@ -3,7 +3,7 @@
   "description": "Web pública de Crate",
   "author": "DK",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "scripts": {
     "site": "vite --config vite.site.config.ts",
