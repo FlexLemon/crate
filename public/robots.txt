@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flexlemon.github.io/crate/sitemap.xml

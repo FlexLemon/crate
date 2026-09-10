@@ -1,0 +1,24 @@
+{
+  "name": "crate-site",
+  "description": "Web pública de Crate",
+  "author": "DK",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "site": "vite --config vite.site.config.ts",
+    "build:site": "vite build --config vite.site.config.ts"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@vitejs/plugin-react": "^6.1.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.2.2"
+  }
+}
