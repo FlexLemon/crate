@@ -1,7 +1,7 @@
 export type Lang = 'es' | 'en'
 
 export const SITE_URL = 'https://flexlemon.github.io/crate/'
-export const DOWNLOAD_URL = 'https://github.com/FlexLemon/crate/releases/latest/download/Crate-Setup-1.0.0.exe'
+export const DOWNLOAD_URL = 'https://github.com/FlexLemon/crate/releases/latest/download/Crate-Setup-1.0.1.exe'
 export const OG_IMAGE = `${SITE_URL}logo.png`
 
 export const copy = {
